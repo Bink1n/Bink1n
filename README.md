@@ -50,7 +50,7 @@ status   : Available for opportunities
 ```yaml
 learning : Modern JavaScript & frameworks
 building : Personal web projects
-reading  : Clean Code — Robert C. Martin
+reading  : Clean Code
 goal     : Ship meaningful things
 ```
 
