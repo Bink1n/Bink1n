@@ -29,7 +29,7 @@
 
 ## About
 
-I'm a **Full Stack Developer** who builds clean, functional, and user-focused web experiences.  
+I'm a **Web Developer** who builds clean, functional, and user-focused web experiences.  
 I care about writing code that's readable, scalable, and worth maintaining.
 
 -  Currently working on personal and open-source web projects
