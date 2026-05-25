@@ -21,7 +21,7 @@
 $ cat about.txt
 
   Name    : Bink1n
-  Role    : Full Stack Developer
+  Role    : Maging baby mo!
   Focus   : Web Development · UI/UX · Clean Architecture
   Status  : Open to opportunities 🟢
   Location: Philippines 🇵🇭
